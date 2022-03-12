@@ -1,3 +1,2 @@
 # churn_rate
-В данной работе предполагается на основе данных по оттоку клиентов и неизвестных признаках разработать модель, которая бы предсказывала по неизвестным признакам будет ли 
-клиент отказываться от услуг или же продолжит ими пользоваться. Подробное описание результатов проекта можно найти в review.ipynb, саму же модель можно найти в файле model.ipynb
+In this kaggle competition, the prediction should be made about churn, basing on anonymous features of each user. The description (in russian) can be found in review.ipynb, the prediction can be found in model.ipynb.
